@@ -1,1 +1,14 @@
 # Project-03-Team-Crystal-Egg
+
+
+## Team:
+Scott Mcniff,
+Melanie Runser, 
+Matias Lopez, 
+Luz Aguilar Sanchez, 
+Levar Mcknight, 
+Jacob Southern 
+
+
+# Does a country’s renewable energy investment impact their air pollution over time?
+We will be observing data from different countries through the years 2017-2021 to see if there are any trends between the efforts of converting to various renewable resources and the quality of the air in the area.
