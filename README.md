@@ -1,12 +1,5 @@
 # Project-03-Team-Crystal-Egg
 
-! [alt text] (https://altoday.com/wp-content/uploads/2015/06/pollution.jpg)
-
-
-
-
-
-
 
 ## Team:
 Scott Mcniff,
