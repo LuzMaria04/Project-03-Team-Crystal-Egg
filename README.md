@@ -1,5 +1,9 @@
 # Project-03-Team-Crystal-Egg
 
+![pollution](https://github.com/LuzMaria04/Project-03-Team-Crystal-Egg/assets/84583580/2f334ad0-93b6-400d-bfa3-17908bbc969e)
+
+
+
 
 ## Team:
 Scott Mcniff,
