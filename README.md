@@ -1,6 +1,6 @@
 # Project-03-Team-Crystal-Egg
 
-![image](https://github.com/LuzMaria04/Project-03-Team-Crystal-Egg/assets/84583580/eec018e2-a4f5-4d6b-bf4c-a85ecf5ad682)
+![pollution](https://github.com/LuzMaria04/Project-03-Team-Crystal-Egg/assets/84583580/45af5b1b-fca9-4a02-b21f-c6097565f2d1)
 
 
 ## Team:
