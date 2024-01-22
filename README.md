@@ -23,3 +23,6 @@ We will be observing data from different countries through the years 2017-2021 t
 
 
 ## Sources: 
+Hossainds, Belayet.  _Renewable Energy World Wide : 1965~2022_. https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022
+
+Novikov, Andrei. _Air pollution_. https://www.kaggle.com/datasets/andreinovikov/air-pollution/data
