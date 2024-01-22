@@ -8,7 +8,7 @@ Scott Mcniff,
 Melanie Runser, 
 Matias Lopez, 
 Luz Aguilar Sanchez, 
-Levar Mcknight, 
+Levar McKnight, 
 Jacob Southern 
 
 
@@ -19,7 +19,7 @@ We will be observing data from different countries through the years 2017-2021 t
 * Storing the data
 * MongoDB to store the Data
 * Pulled from CSV from Kaggle nd imported into the DB
-* Data can be filtered to specific counrty + years to meet our needs
+* Data can be filtered to specific country + years to meet our needs
 
 
 ## Sources: 
