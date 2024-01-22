@@ -26,3 +26,17 @@ We will be observing data from different countries through the years 2017-2021 t
 Hossainds, Belayet.  _Renewable Energy World Wide : 1965~2022_. https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022
 
 Novikov, Andrei. _Air pollution_. https://www.kaggle.com/datasets/andreinovikov/air-pollution/data
+
+## Installation and Usage
+This project is not open for contributions, as it is a homework assignment only. Please do not copy, modify, or distribute this code without permission.
+
+### OUR APPROACH & PROJECT STEPS
+
+## Data Cleaning Round 1
+
+
+## Data Cleaning Round 2
+
+
+## Credits
+ 
