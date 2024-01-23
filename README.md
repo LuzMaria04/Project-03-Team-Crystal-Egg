@@ -33,6 +33,8 @@ This project is not open for contributions, as it is a homework assignment only.
 ### OUR APPROACH & PROJECT STEPS
 
 ## Data Cleaning Round 1
+We used Power Query for the first round of data cleaning, primarily to merge all the files within the datasets. That required multiple query connections and left join merges, first to combine all the renewable data by country, then to blend in the air pollution data by city. We unpivoted columns to account for the multiple entries for each city, matching each city to a country and duplicating the country data for each city. See the Advanced Editor in Power Query for precise steps.
+![image](https://github.com/LuzMaria04/Project-03-Team-Crystal-Egg/assets/142008125/e9695784-d5b2-4295-89ae-8eff9db60923)
 
 
 ## Data Cleaning Round 2
